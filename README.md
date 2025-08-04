@@ -1,22 +1,31 @@
-# projects-data
+# 🛒 Analyse des ventes d’un supermarché (Excel & Power BI)
 
-Bienvenue sur mon portfolio de projets en data !
+## 🎯 Objectif
+Ce projet vise à analyser les ventes d’un supermarché afin d’identifier :
+- Les produits les plus vendus
+- Les périodes faibles en chiffre d’affaires
+- Les régions les plus performantes
 
-🎯 Objectif : Devenir Data Analyst junior et contribuer à des projets d’analyse et de visualisation de données.
+## 📁 Données
+- Données simulées : 200 lignes (Produit, Région, Mois, Client, Quantité, Prix, CA)
+- Format : CSV ou Excel
 
-## 👨🏽‍💻 Projets réalisés
+## 🧰 Outils utilisés
+- **Excel** : tableaux croisés dynamiques (TCD), graphiques, calculs de CA
+- **Power BI** : dashboard interactif (filtrage par produit, région, mois)
+- **SQL (optionnel)** : requêtes d’agrégation (top 5 produits, CA par région)
 
-### 1. Analyse des ventes d’un supermarché (Août 2025)
-- Données simulées : 200 lignes (produits, clients, régions)
-- Analyse dans Excel et visualisation dans Power BI
-- Création de dashboard : top produits, régions, évolution mensuelle
-- 📊 Fichier : `Projet_Analyse_Ventes_Alassane.xlsx`
-- 📷 Visuels inclus
+## 📊 Résultats
+- Top produit : Lait 1L – Région Est
+- Mois faible : Août (volume de ventes bas)
+- Recommandation : booster les promotions pendant les mois creux
 
-## 📚 Compétences
-- Excel, Power BI, SQL, Python (pandas)
-- Visualisation, reporting, storytelling
+## 📸 Aperçu du Dashboard
 
-## 📫 Contact
-- Email : alassanepauldavid@gmail.com
-- Téléphone : +225 07 05 97 3938
+![Aperçu Dashboard](images/dashboard_apercu.png)
+
+## 🧠 Enseignements
+Ce projet m’a permis de :
+- Renforcer ma maîtrise d’Excel avancé
+- Construire un dashboard Power BI clair et interactif
+- Interpréter les données pour formuler des recommandations métier
